@@ -37,7 +37,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
           <div className="w-7 h-7 rounded-lg bg-brand-500 flex items-center justify-center">
             <Bot size={15} />
           </div>
-          <span className="font-semibold tracking-tight">Agentify</span>
+          <span className="font-semibold tracking-tight">AKEXA</span>
         </div>
 
         <nav className="flex-1 p-3 space-y-1">
