@@ -120,7 +120,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="border-t border-white/5 py-8 px-6 text-center text-sm text-gray-500">
-        <p>© 2024 Agentify — Made in Bangladesh 🇧🇩</p>
+        <p>© 2026 AKEXA — Made in Bangladesh 🇧🇩</p>
       </footer>
     </div>
   )
