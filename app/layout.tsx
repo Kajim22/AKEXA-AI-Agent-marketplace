@@ -5,7 +5,7 @@ import { authOptions } from './api/auth/[...nextauth]/route'
 import SessionProvider from '@/components/SessionProvider'
 
 export const metadata: Metadata = {
-  title: 'Agentify — AI Agent Builder & Marketplace',
+  title: 'AKEXA — AI Agent Builder & Marketplace',
   description: 'বাংলাদেশের প্রথম AI Agent Builder প্ল্যাটফর্ম।',
 }
 
