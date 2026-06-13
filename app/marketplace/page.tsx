@@ -46,7 +46,7 @@ export default function MarketplacePage() {
           <div className="w-7 h-7 rounded-lg bg-brand-500 flex items-center justify-center">
             <Bot size={15} />
           </div>
-          <span className="font-semibold">Agentify</span>
+          <span className="font-semibold">AKEXA</span>
         </Link>
         <Link href="/dashboard" className="text-sm text-brand-500 hover:underline">Dashboard →</Link>
       </nav>
