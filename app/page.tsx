@@ -12,7 +12,7 @@ export default function HomePage() {
             <div className="w-8 h-8 rounded-lg bg-brand-500 flex items-center justify-center">
               <Bot size={18} className="text-white" />
             </div>
-            <span className="font-semibold text-lg tracking-tight">Agentify</span>
+            <span className="font-semibold text-lg tracking-tight">AKEXA</span>
           </div>
           <div className="flex items-center gap-3">
             <Link href="/marketplace" className="text-sm text-gray-400 hover:text-white transition-colors px-4 py-2">
